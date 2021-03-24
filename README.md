@@ -1,2 +1,2 @@
 # zoomy
-This is a zoom-clone. we called zoomy 
+This is a zoom-clone. We called zoomy 
